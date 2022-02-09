@@ -1,7 +1,6 @@
 # Notes on ML Fundamental
 
-Study note for Mahcine learning funcdamental.
-Each folder has concepts and example using python.
+Study notes for machine learning fundamental. Each folder has concepts and example using python and/or jupyter notebook and/or csv example files.
 
 ## To get started
 ```
