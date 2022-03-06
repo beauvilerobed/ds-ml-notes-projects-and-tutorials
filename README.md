@@ -1,6 +1,6 @@
 # Notes on Machine Learning
 
-Study notes for Machine l=Learning and Deep Learning concepts. Each folder has information and examples using python and/or jupyter notebook and/or csv example files.
+Study notes for both Machine Learning and Deep Learning concepts. Each folder has information and/or examples using python and jupyter notebooks.
 
 ## To get started
 ```
