@@ -1,6 +1,4 @@
-# Notes on DL Fundamental
-
-Study notes for deep learning fundamental. Each folder has concepts and example using python and/or jupyter notebook and/or csv example files.
+# Notes on Deep Learnging Concepts
 
 ## To get started
 ```
