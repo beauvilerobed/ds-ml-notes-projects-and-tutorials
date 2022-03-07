@@ -1,11 +1,20 @@
-# Notes on Machine Learning
+# Notes and Projects on Machine Learning Fundamentals
 
-Study notes for both Machine Learning and Deep Learning concepts. Each folder has information and/or examples using python and jupyter notebooks.
+Repository containing notes and projects completed by me for academic, self learning, and hobby purposes.
 
-## To get started
-```
-cd [filename]
-run [filename].ipynb
-```
+## Topics
+### Machine Learning
+- Feature Scaling
+- Gradient Boosting vs. Random Forest Machines
+- K-Means from scratch
+- Logistic Regression from scratch
+- Multicollinearity
 
-Happy Reading!
+### Deep Learning
+- Deep Feedforward Networks
+    1. Learning XOR
+    2. Gradient based learning
+
+
+## Projects
+- Keras Tutorial: Deep Learning in Python
