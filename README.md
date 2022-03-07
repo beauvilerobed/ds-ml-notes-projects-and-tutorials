@@ -17,4 +17,4 @@ Repository containing notes and projects completed by me for academic, self lear
 
 
 ## Projects
-- Keras Tutorial: Deep Learning in Python
+- Keras Tutorial: Deep Learning in Python (Predict Wine Type)
