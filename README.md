@@ -1,7 +1,5 @@
 # Notes and Projects on Machine Learning Fundamentals
 
-Repository containing notes and projects completed by me for academic, self learning, and hobby purposes.
-
 ## Topics
 ### Machine Learning
 - Feature Scaling
