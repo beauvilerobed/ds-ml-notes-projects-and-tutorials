@@ -9,6 +9,8 @@ Repository containing notes and projects completed by me for academic, self lear
 - K-Means from scratch
 - Logistic Regression from scratch
 - Multicollinearity
+- Generative Models vs. Discriminative Models
+- L1 and L2 regularization
 
 ### Deep Learning
 - Deep Feedforward Networks
