@@ -17,4 +17,4 @@
 
 
 ## Projects
-- Keras Tutorial: Deep Learning in Python (Predict Wine Type)
+- Keras Tutorial: Predicting Wine Type and Quality
