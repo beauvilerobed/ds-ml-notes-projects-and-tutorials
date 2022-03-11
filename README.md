@@ -18,3 +18,4 @@
 
 ## Projects
 - Keras Tutorial: Predicting Wine Type and Quality
+- Deep Learning with Python: Identify The Digit
