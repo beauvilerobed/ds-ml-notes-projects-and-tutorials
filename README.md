@@ -12,12 +12,16 @@
 
 ### Deep Learning 
 (located in the deep learning notes folder)
+- Artificial Neural Network
+    - ANNs 
 - Deep Feedforward Networks
-    1. Learning XOR
-    2. Gradient Based Learning
+    - Learning XOR
+    - Feedforward Neural Networks
 
 
 ## Projects and Tutorials 
 (located in the projects folder)
 - Keras Tutorial: Predicting Wine Type and Quality
-- Deep Learning with Python: Identify The Digit
+- Deep Learning with Python: Handwritten Digit Recognition
+- Deep Learning with Python: Learning OR Operator
+- Building a Feedforward Neural Network from Scratch in Python
