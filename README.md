@@ -10,6 +10,7 @@
 - Generative Models vs. Discriminative Models
 - L1 and L2 Regularization
 - Decision Trees and Random Forest Fundamentals
+- Boosting
 
 ### Deep Learning 
 (located in the deep learning notes folder)
