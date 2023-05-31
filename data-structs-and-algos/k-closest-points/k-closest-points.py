@@ -2,15 +2,22 @@
 
 # Example: A = [[2,-1], [3,2], [4,1], [-1,-1], [-2,2]] with k=3 should return [[-1,-1], [2,-1], [-2,2]]
 
-import heapq
+from heapq import heappush, heappop
 
 def dist(coord):
     return coord[0]**2 + coord[1]**2
 
 def k_closest_points(arr,k):
-    distances = [(dist(nums), nums) for nums in arr]
-    largest_vals = heapq.nsmallest(k,distances)
-    return largest_vals
+    min_heap = []
+    for nums in arr:
+        heappush(min_heap, (dist(nums), nums))
+
+    res = []
+    for i in range(k):
+        res.append(heappop(min_heap)[1])
+
+    return res
+
 
 def main():
     k = int(input())
