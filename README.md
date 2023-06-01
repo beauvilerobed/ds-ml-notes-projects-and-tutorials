@@ -33,5 +33,5 @@
 ## Data Structures and Algorithms Problems
 - Intersection of Lists
 - K Closest Points
-- K-th smallest Value in Matrix
+- K-th Smallest Value in Matrix
 - Max Product of Three Values in Array
