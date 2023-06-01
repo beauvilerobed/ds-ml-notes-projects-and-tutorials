@@ -21,6 +21,7 @@
 - Deep Feedforward Networks
     - Learning XOR
     - Feedforward Neural Networks
+    - Regularization for Deep Learning
 
 
 ## Projects and Tutorials 
