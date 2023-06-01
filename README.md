@@ -23,7 +23,6 @@
     - Feedforward Neural Networks
 - Regularization for Deep Learning
 
-
 ## Projects and Tutorials 
 (located in the projects folder)
 - Keras Tutorial: Predicting Wine Type and Quality
