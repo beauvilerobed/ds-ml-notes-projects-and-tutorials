@@ -2,6 +2,8 @@
 
 # Example: A = [[2,-1], [3,2], [4,1], [-1,-1], [-2,2]] with k=3 should return [[-1,-1], [2,-1], [-2,2]]
 
+# Solution runtime O(n*logk) space complexity O(k)
+
 from heapq import heappush, heappop
 
 def dist(coord):
