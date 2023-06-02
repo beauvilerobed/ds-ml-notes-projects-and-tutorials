@@ -7,16 +7,17 @@
 #.              [6,8,11]]
 # If k=4 return 5
 
+# Solution runtime O(k^2*logk) space complexity O(k)
+
 from heapq import heappush, heappop
 
 def k_smallest(matrix, k):
     n = len(matrix)
-    m = len(matrix[0])
     
     min_heap = []
 
-    for i in range(n):
-        for j in range(m):
+    for i in range(min(n,k)):
+        for j in range(min(n,k)):
             heappush(min_heap, matrix[i][j])
 
     res = 0
@@ -28,12 +29,11 @@ def k_smallest(matrix, k):
 def main():
     k = int(input())
     n = int(input())
-    m = int(input())
     matrix = []
     for _ in range(n):
         arr = input().split()
         arr = [float(num) for num in arr]
-        if len(arr) == m:
+        if len(arr) == n:
             matrix.append(arr)
 
     print(k_smallest(matrix, k))
