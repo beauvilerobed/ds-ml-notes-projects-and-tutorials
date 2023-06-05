@@ -15,7 +15,7 @@ def insert(temp,data):
          if data is not None:
             temp.left = Node(data)
          else:
-            temp.left = Node(0)
+            temp.left = Node('')
          break
       else:
          que.append(temp.left)
@@ -23,7 +23,7 @@ def insert(temp,data):
          if data is not None:
             temp.right = Node(data)
          else:
-            temp.right = Node(0)
+            temp.right = Node('')
          break
       else:
          que.append(temp.right)
@@ -37,12 +37,13 @@ def make_tree(elements):
 
 def print_tree(node, level=0):
     if node is not None:
-        print_tree(node.right, level + 1)
-        print(" " * 4 * level + "->", node.value)
-        print_tree(node.left, level + 1)
+      print_tree(node.right, level + 1)
+      if node.value:
+         print(" " * 4 * level + "->", node.value)
+      print_tree(node.left, level + 1)
 
 tree1 = make_tree([1,2,2,3,4,4,3])
 tree2 = make_tree([1,2,2,3,4,'None',3])
 
-print_tree(tree1)
-print_tree(tree2)
+# print_tree(tree1)
+# print_tree(tree2)
