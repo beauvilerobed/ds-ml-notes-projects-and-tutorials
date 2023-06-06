@@ -26,6 +26,9 @@
 ## A/B Testing
 - How to Do A/B Testing
 - A/B Testing with Python
+    - Test 1
+    - Test 2
+    - Test 3
 
 ## Projects and Tutorials 
 (located in the projects folder)
