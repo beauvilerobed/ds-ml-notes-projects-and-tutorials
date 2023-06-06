@@ -28,7 +28,6 @@
 - A/B Testing with Python
     - Free Trial Screener
     - Check Which Newsletter Brings Higher Traffic
-    - Relationship Between Mailer Type and Signup Rate
     - Conversion Rate Optimization
 
 ## Projects and Tutorials 
