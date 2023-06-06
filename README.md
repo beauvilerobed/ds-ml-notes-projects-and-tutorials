@@ -1,7 +1,7 @@
-# Notes and Projects on Machine Learning Fundamentals
+# Notes and Projects on Data Science and Machine Learning Fundamentals
 
-## Topics
-### Machine Learning
+# Topics
+## Machine Learning
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
 - K-Means from Scratch
@@ -14,7 +14,7 @@
 - PCA
 - SMOTE (Synthetic Minority Oversampling Technique)
 
-### Deep Learning 
+## Deep Learning 
 (located in the deep learning notes folder)
 - Artificial Neural Network
     - ANNs 
@@ -22,6 +22,10 @@
     - Learning XOR
     - Feedforward Neural Networks
 - Regularization for Deep Learning
+
+## A/B Testing
+- How to Do A/B Testing
+- A/B Testing with Python
 
 ## Projects and Tutorials 
 (located in the projects folder)
@@ -35,3 +39,6 @@
 - K Closest Points
 - K-th Smallest Value in Matrix
 - Max Product of Three Values in Array
+- Binary Tree Mirror Image
+    - binary tree generator
+- Sum of Largest Contiguous Subarray
