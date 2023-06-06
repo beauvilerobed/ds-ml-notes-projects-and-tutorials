@@ -26,9 +26,10 @@
 ## A/B Testing
 - How to Do A/B Testing
 - A/B Testing with Python
-    - Test 1
-    - Test 2
-    - Test 3
+    - Free Trial Screener
+    - Check Which Newsletter Brings Higher Ttraffic
+    - Relationship Between Mailer Type and Signup Rate
+    - Conversion Rate Optimization
 
 ## Projects and Tutorials 
 (located in the projects folder)
