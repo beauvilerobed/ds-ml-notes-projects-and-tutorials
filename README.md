@@ -40,5 +40,5 @@
 - K-th Smallest Value in Matrix
 - Max Product of Three Values in Array
 - Binary Tree Mirror Image
-    - binary tree generator
+    - Binary Tree Generator
 - Sum of Largest Contiguous Subarray
