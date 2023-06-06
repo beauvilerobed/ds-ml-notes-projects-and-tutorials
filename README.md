@@ -22,6 +22,7 @@
     - Learning XOR
     - Feedforward Neural Networks
 - Regularization for Deep Learning
+    - L1 and L2 Regularization
 
 ## A/B Testing
 - How to Do A/B Testing
