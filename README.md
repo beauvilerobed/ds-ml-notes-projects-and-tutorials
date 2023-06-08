@@ -37,6 +37,7 @@
 - Deep Learning with Python: Handwritten Digit Recognition
 - Deep Learning with Python: Learning OR Operator
 - Building a Feedforward Neural Network from Scratch
+- Building a Calculus Chatbot from Scratch
 
 ## Data Structures and Algorithms Problems
 - Intersection of Lists
