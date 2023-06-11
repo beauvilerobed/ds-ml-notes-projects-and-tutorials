@@ -23,6 +23,7 @@
     - Feedforward Neural Networks
 - Regularization for Deep Learning
     - L1 and L2 Regularization
+- Optimization for Training DeepModels
 
 ## A/B Testing
 - How to Do A/B Testing
