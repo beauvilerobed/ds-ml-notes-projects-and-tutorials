@@ -24,9 +24,7 @@
 - Regularization for Deep Learning
     - L1 and L2 Regularization
 - Optimization for Training DeepModels
-    - Stochastic Gradient Descent
-    - Momentum
-    - Algorithms with Adaptive Learning rates
+    - Stochastic Gradient Descent, Momentum, and Adaptive Learning rates
 
 ## A/B Testing
 - How to Do A/B Testing
