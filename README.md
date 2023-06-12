@@ -49,3 +49,4 @@
 - Binary Tree Mirror Image
     - Binary Tree Generator
 - Sum of Largest Contiguous Subarray
+- Peak Element in Array
