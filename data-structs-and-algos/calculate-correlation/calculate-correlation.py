@@ -17,21 +17,22 @@ def calc_cov(X,Y):
     cov = sum(prods)/n
     return cov
 
-def calc_var(X):
+def calc_sd(X):
     n = len(X)
     mean = sum(X)/n
     means_from_val = [(val-mean)**2 for val in X]
-    variance = math.sqrt(sum(means_from_val)/n)
-    return variance
+    variance = sum(means_from_val)/n
+    sd = math.sqrt(variance)
+    return sd
 
 
 def corr(X,Y):
-    covariance = calc_cov(X,Y)
-    variance_x = calc_var(X)
-    variance_y = calc_var(Y)
+    covariance_xy = calc_cov(X,Y)
+    sd_x = calc_sd(X)
+    sd_y = calc_sd(Y)
 
-    correlation = covariance/(variance_x*variance_y)
-    return correlation
+    correlation_xy = covariance_xy/(sd_x*sd_y)
+    return correlation_xy
 
 
 def main():
