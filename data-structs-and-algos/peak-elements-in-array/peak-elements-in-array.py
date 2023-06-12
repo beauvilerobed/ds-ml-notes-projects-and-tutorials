@@ -3,19 +3,27 @@
 
 # Example: [3, 5, 2, 4, 1] returns either 1 or 3 because the values of those indexes,5 and 4, are both peak elements.
 
+# Solution: runtime O(log N) space complexity O(1)
+
 
 def peak_values(arr):
-    n = len(arr)
-    if n < 3:
-        return None
-    for i in range(1,n-1):
-        if arr[i-1] < arr[i] and arr[i] > arr[i+1]:
-            return i
-    
-    return None
+    left = 0
+    right = len(arr)-1
+    while True:
+        mid = (left+right)/2
+        right_val = arr[mid+1] if mid+1 < len(arr) else float('-inf')
+        left_val = arr[mid+1] if mid-1 >= 0 else float('-inf')
+
+        if left_val < arr[mid] and right_val < arr[mid]:
+            return mid
+        elif arr[mid] < right_val:
+            left = mid + 1
+        else:
+            right = mid - 1
+
 
 def main():
-    arr = [int(val) for val in input().split()]
+    arr = [float(val) for val in input().split()]
     print(peak_values(arr))
 
 
