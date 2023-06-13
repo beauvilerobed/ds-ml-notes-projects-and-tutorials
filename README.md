@@ -29,6 +29,7 @@ Each topic has a python implementation
     - Stochastic Gradient Descent, Momentum, and Adaptive Learning rates
 - Convolutional Networks
     - The Convolution Operation and Pooling
+    - Convolutional Neural Network (CNN) Tutorial
 
 ## A/B Testing
 - How to Do A/B Testing
