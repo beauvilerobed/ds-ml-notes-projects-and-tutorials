@@ -11,7 +11,7 @@
 - L1 and L2 Regularization
 - Decision Trees and Random Forest Fundamentals
 - Boosting
-- PCA
+- PCA (Principal Component Analysis)
 - SMOTE (Synthetic Minority Oversampling Technique)
 
 ## Deep Learning 
