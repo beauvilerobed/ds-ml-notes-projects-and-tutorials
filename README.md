@@ -26,6 +26,7 @@
 - Optimization for Training DeepModels
     - Stochastic Gradient Descent, Momentum, and Adaptive Learning rates
 - Convolutional Networks
+    - The Convolution Operation and Pooling
 
 ## A/B Testing
 - How to Do A/B Testing
