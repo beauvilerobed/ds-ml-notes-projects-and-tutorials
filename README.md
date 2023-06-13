@@ -16,8 +16,7 @@
 
 ## Deep Learning 
 (located in the deep learning notes folder)
-### Note: 
-Each topic has a python implementation
+### Note: Each topic has a python implementation
 - Artificial Neural Network
     - ANNs 
 - Deep Feedforward Networks
