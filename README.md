@@ -25,6 +25,7 @@
     - L1 and L2 Regularization
 - Optimization for Training DeepModels
     - Stochastic Gradient Descent, Momentum, and Adaptive Learning rates
+- Convolutional Networks
 
 ## A/B Testing
 - How to Do A/B Testing
