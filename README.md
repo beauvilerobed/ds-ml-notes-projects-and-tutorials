@@ -45,7 +45,7 @@
 - Building a Feedforward Neural Network from Scratch
 - NLTK Chatbot Training and Implementation
 
-## Data Structures and Algorithms Problems
+## Data Structures and Algorithms
 - Intersection of Lists
 - K Closest Points
 - K-th Smallest Value in Matrix
