@@ -37,7 +37,7 @@
     - Check Which Newsletter Brings Higher Traffic
     - Conversion Rate Optimization
 
-## Projects and Tutorials 
+## Projects 
 (located in the projects folder)
 - Keras Tutorial: Predicting Wine Type and Quality
 - Deep Learning with Python: Handwritten Digit Recognition
