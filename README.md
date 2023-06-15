@@ -39,9 +39,9 @@
 
 ## Projects 
 (located in the projects folder)
-- Keras Tutorial: Predicting Wine Type and Quality
-- Deep Learning with Python: Handwritten Digit Recognition
-- Deep Learning with Python: Learning OR Operator
+- Predicting Wine Type and Quality With Keras
+- Handwritten Digit Recognition
+- Learning OR Operator
 - Building a Feedforward Neural Network from Scratch
 - NLTK Chatbot Training and Implementation
 
