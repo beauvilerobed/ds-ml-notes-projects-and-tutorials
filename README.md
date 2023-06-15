@@ -29,6 +29,7 @@
 - Convolutional Networks
     - The Convolution Operation and Pooling
     - Convolutional Neural Network (CNN) Tutorial
+- Sequence Modeling: Recurrent and Recursive Nets
 
 ## A/B Testing
 - How to Do A/B Testing
