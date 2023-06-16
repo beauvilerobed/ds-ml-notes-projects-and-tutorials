@@ -15,8 +15,10 @@
 - SMOTE (Synthetic Minority Oversampling Technique)
 
 ## Deep Learning 
-(located in the deep learning notes folder)
-**Note**: Each topic has a python implementation
+(Located in the deep learning notes folder)
+
+**Note**: Each topic has examples in Python
+
 - Artificial Neural Network
     - ANNs 
 - Deep Feedforward Networks
