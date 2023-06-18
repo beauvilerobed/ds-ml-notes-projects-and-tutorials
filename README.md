@@ -47,6 +47,7 @@
 - Learning OR Operator
 - Building a Feedforward Neural Network from Scratch
 - NLTK Chatbot Training and Implementation
+- Generative chatbots with a seq2seq model 
 
 ## Data Structures and Algorithms
 - Intersection of Lists
