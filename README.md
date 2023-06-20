@@ -59,3 +59,5 @@
 - Sum of Largest Contiguous Subarray
 - Peak Element in Array
 - Calculate Correlation
+- Calculate Diameter of Binary Tree
+    - Binary Tree Generator 2.0
