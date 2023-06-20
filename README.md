@@ -46,8 +46,8 @@
 - Handwritten Digit Recognition
 - Learning OR Operator
 - Building a Feedforward Neural Network from Scratch
-- NLTK Retrieval Chatbot Training and Implementation (closed domain)
-- Generative chatbots with seq2seq models (open domain)
+- NLTK Retrieval Chatbot Training and Implementation(closed domain)
+- Generative chatbots with seq2seq models(open domain)
 
 ## Data Structures and Algorithms
 - Intersection of Lists
