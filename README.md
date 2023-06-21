@@ -48,6 +48,7 @@
 - Building a Feedforward Neural Network from Scratch
 - NLTK Retrieval Chatbot Training and Implementation(closed domain)
 - Generative chatbots with seq2seq models(open domain)
+- Predict Car Fuel Efficienc
 
 ## Data Structures and Algorithms
 - Intersection of Lists
