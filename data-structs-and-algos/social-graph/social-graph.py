@@ -10,20 +10,6 @@ def least_friends(v1, v2):
 
 
 def main():
-    graph = Graph()
-    val = 0
-    while val != 'stop':
-        val = input()
-        if val == 'stop':
-            break
-
-        val = val.split()
-        if val[0] == 'add':
-            graph.add_vertex(val[1])
-
-        if val[0] == 'edges':
-            graph.add_edge(val[1], val[2], 0)
-    
     print(graph.get_vertices())
 
 
