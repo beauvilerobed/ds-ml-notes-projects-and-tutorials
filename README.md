@@ -49,6 +49,8 @@
 - NLTK Retrieval Chatbot Training and Implementation(closed domain)
 - Generative chatbots with seq2seq models(open domain)
 - Predict Car Fuel Efficienc
+    - Vehicle MPG Estimates, 1970-1983
+    - Vehicle MPG Estimates, 1984-2017
 - How to Identify Overfitting Machine Learning Models in Scikit-Learn
 
 ## Data Structures and Algorithms
