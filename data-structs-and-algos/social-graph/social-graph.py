@@ -2,6 +2,7 @@
 # to return the smallest number of friendship between the two users.
 
 # Example: (A, B),(A, C),(B, D),(D, E) input: A, E return: 3
+
 from graphs import Graph, Vertex
 
 def least_friends(v1, v2):

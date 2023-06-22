@@ -9,7 +9,7 @@ class Vertex:
     def get_neighbors(self):
         return self.neighbors.keys()
     
-
+    
 class Graph:
     def __init__(self):
         self.vertices = {}
