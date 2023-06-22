@@ -8,7 +8,6 @@ from graphs import Graph, Vertex
 def least_friends(v1, v2):
     pass
 
-hello
 def main():
     graph = Graph()
     val = 0
