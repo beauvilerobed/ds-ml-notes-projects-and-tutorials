@@ -32,6 +32,8 @@
     - The Convolution Operation and Pooling
     - Convolutional Neural Network (CNN) Tutorial
 - Sequence Modeling: Recurrent and Recursive Nets
+    - Teacher Forcing
+    - LSTM Networks
 
 ## A/B Testing
 - How to Do A/B Testing
@@ -50,6 +52,8 @@
 - Generative chatbots with seq2seq models(open domain)
 - Predict Car Fuel Efficiency
 - How to Identify Overfitting Machine Learning Models in Scikit-Learn
+- Intro to Sequence to Sequence Learning in Keras
+- How to Develop an Encoder-Decoder Model for Seq2seq Prediction in Keras
 
 ## Data Structures and Algorithms
 - Intersection of Lists
