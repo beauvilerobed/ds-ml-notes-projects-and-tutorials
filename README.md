@@ -31,7 +31,7 @@
 - Convolutional Networks
     - The Convolution Operation and Pooling
     - Convolutional Neural Network (CNN) Tutorial
-- Sequence Modeling: Recurrent and Recursive Nets
+- Sequence Modeling: Recurrent Nets
     - Teacher Forcing
     - LSTM Networks
 
