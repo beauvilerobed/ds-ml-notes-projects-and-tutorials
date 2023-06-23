@@ -56,6 +56,7 @@
 - How to Develop an Encoder-Decoder Model for Seq2seq Prediction in Keras
 - Vehicle Fuel Economy Estimates
     - Data Analysis
+    - Modelling and Evaluation
 
 ## Data Structures and Algorithms
 - Intersection of Lists
