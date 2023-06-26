@@ -58,6 +58,10 @@
 - Vehicle Fuel Economy Estimates
     - Data Analysis
     - Modelling and Evaluation
+- Simulation Modeling in Python
+    - Introduction to Simulation Modeling in Python
+    - How to modeling and simulation in Python with an example
+    - Simple Simulations in Python
 
 ## Data Structures and Algorithms
 - Intersection of Lists
