@@ -66,6 +66,10 @@
     - Simple Simulations in Python
         - Simulate Rolling Die
         - Simulate Drawing from a 52 deck of cards
+    - Expected number of trials to see all n numbers in an n-sided dice.
+        - Solution
+        - Simulation
+
 
 ## Data Structures and Algorithms
 - Intersection of Lists
