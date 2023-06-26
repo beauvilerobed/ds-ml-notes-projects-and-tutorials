@@ -60,8 +60,12 @@
     - Modelling and Evaluation
 - Simulation Modeling in Python
     - Introduction to Simulation Modeling in Python
-    - How to modeling and simulation in Python with an example
+        - Monte Carlo Simulation
+    - How to modeling and simulation in Python
+        - Simulate the Spread of an Infectious Disease
     - Simple Simulations in Python
+        - Simulate Rolling Die
+        - Simulate Drawing from a 52 deck of cards
 
 ## Data Structures and Algorithms
 - Intersection of Lists
