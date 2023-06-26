@@ -13,6 +13,7 @@
 - Boosting
 - PCA (Principal Component Analysis)
 - SMOTE (Synthetic Minority Oversampling Technique)
+- Cross-Validation
 
 ## Deep Learning 
 (Located in the deep learning notes folder)
