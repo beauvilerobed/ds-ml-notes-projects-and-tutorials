@@ -69,8 +69,7 @@
         - Simulate Rolling Die
         - Simulate Drawing from a 52 deck of cards
     - Expected number of trials to see all n numbers in an n-sided dice.
-        - Solution
-        - Simulation
+        - Solution and Simulation
 - Random Forest Not Ideal For Out-of-Sample Data Points
 
 
