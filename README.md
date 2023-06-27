@@ -70,6 +70,7 @@
     - Expected number of trials to see all n numbers in an n-sided dice.
         - Solution
         - Simulation
+- Random Forest Not Ideal For Out-of-Sample Data Points
 
 
 ## Data Structures and Algorithms
