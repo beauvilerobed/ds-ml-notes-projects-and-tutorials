@@ -15,6 +15,7 @@
 - PCA (Principal Component Analysis)
 - SMOTE (Synthetic Minority Oversampling Technique)
 - Cross-Validation
+- Model Selection and Hyperparameter Tuning
 
 ## Deep Learning 
 (Located in the deep learning notes folder)
