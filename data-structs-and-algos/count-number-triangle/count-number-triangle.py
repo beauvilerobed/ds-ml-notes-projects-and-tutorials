@@ -12,28 +12,29 @@
 #        sides = [3, 3, 3, 3] -> 4
 #        sides = [1, 2, 3.5] -> 0
 
-def to_check_to_sides(to_check, triangles):
+# solution: runtime O(n) space complexity O(1)
+
+def to_check_to_sides(to_check):
     # sum of two sides is greater
     # than the third
 
     if (to_check[0] < to_check[1] + to_check[2]) and\
         (to_check[1] < to_check[0] + to_check[2]) and\
          (to_check[2] < to_check[1] + to_check[0]):
-        triangles.append(to_check)
+        return True
     
-    return triangles
+    return False
 
 
 def possible_triangles(arr):
     n = len(arr)
-    triangles = []
+    count = 0
 
     if n <= 2:
-        return triangles
+        return count
 
     if n == 3:
-        triangles = to_check_to_sides(arr, triangles)
-        return triangles 
+        return 1 if to_check_to_sides(arr) else 0
     
     for i in range(n):
         to_check = None
@@ -46,15 +47,16 @@ def possible_triangles(arr):
         
         # sum of two sides is greater
         # than the third
-        triangles = to_check_to_sides(to_check, triangles)
+        if to_check_to_sides(to_check):
+            count += 1
         
-    return triangles
+    return count
 
 def main():
     arr = [float(val) for val in input().split()]
-    triangles = possible_triangles(arr)
-    print("triangles ",triangles)
-    print(len(triangles))
+    count = possible_triangles(arr)
+    print("number of triangles ",count)
+
 
 
 if __name__ == '__main__':
