@@ -12,8 +12,6 @@
 #        sides = [3, 3, 3, 3] -> 4
 #        sides = [1, 2, 3.5] -> 0
 
-# solution: runtime O(n) space complexity O(1)
-
 def to_check_to_sides(to_check):
     # sum of two sides is greater
     # than the third
