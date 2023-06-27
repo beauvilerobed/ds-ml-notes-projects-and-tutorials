@@ -11,43 +11,27 @@
 # Input: sides = [3, 3, 3] -> 1
 #        sides = [3, 3, 3, 3] -> 4
 #        sides = [1, 2, 3.5] -> 0
+#        sides = [1, 2, 3, 4, 5, 6] -> 7
 
-def to_check_to_sides(to_check):
-    # sum of two sides is greater
-    # than the third
-
-    if (to_check[0] < to_check[1] + to_check[2]) and\
-        (to_check[1] < to_check[0] + to_check[2]) and\
-         (to_check[2] < to_check[1] + to_check[0]):
-        return True
-    
-    return False
-
+# solution: runtime O(N^2) spacetime complexity O(1)
 
 def possible_triangles(arr):
     n = len(arr)
+    arr = sorted(arr)
     count = 0
-
-    if n <= 2:
-        return count
-
-    if n == 3:
-        return 1 if to_check_to_sides(arr) else 0
     
-    for i in range(n):
-        to_check = None
-        if i+2 > n-1:
-            start = i
-            end = (i+2)%n
-            to_check = arr[:end+1]+arr[start:]
-        else:
-            to_check = arr[i:i+3]
-        
-        # sum of two sides is greater
-        # than the third
-        if to_check_to_sides(to_check):
-            count += 1
-        
+    for i in range(n-1, 2, -1):
+        left = 0
+        right = i-1
+
+        while left < right:
+            if arr[left] + arr[right] > arr[i]:
+                count += right - left
+                right -= 1
+
+            else:
+                left += 1
+
     return count
 
 def main():
