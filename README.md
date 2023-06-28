@@ -63,8 +63,8 @@
 - Simulation Modeling Introduction
     - Monte Carlo Simulation
     - Simulate the Spread of an Infectious Disease
-    - Simulate Rolling Die and Drawing from a 52 deck of cards
-    - Expected number of trials to see all n numbers in an n-sided dice.
+    - Simulate Rolling Die and Drawing from a 52 Deck of Cards
+    - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Out-of-Sample Data Points
 
 
