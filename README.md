@@ -60,16 +60,11 @@
 - Vehicle Fuel Economy Estimates
     - Data Analysis
     - Modelling and Evaluation
-- Simulation Modeling in Python
-    - Introduction to Simulation Modeling in Python
-        - Monte Carlo Simulation
-    - How to modeling and simulation in Python
-        - Simulate the Spread of an Infectious Disease
-    - Simple Simulations in Python
-        - Simulate Rolling Die
-        - Simulate Drawing from a 52 deck of cards
+- Simulation Modeling Introduction
+    - Monte Carlo Simulation
+    - Simulate the Spread of an Infectious Disease
+    - Simulate Rolling Die and Drawing from a 52 deck of cards
     - Expected number of trials to see all n numbers in an n-sided dice.
-        - Solution and Simulation
 - Random Forest Not Ideal For Out-of-Sample Data Points
 
 
