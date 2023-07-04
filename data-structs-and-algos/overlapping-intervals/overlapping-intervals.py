@@ -7,7 +7,6 @@
 
 # solution: runtime O(N) space complexity O(1)
 
-
 def smallest_number(arr):
     n = len(arr)
 
