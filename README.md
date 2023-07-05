@@ -8,7 +8,7 @@
 - Elbow Method for Optimal Value of K in KMeans
 - Logistic Regression from Scratch
 - Multicollinearity
-- Generative Models vs. Discriminative Models
+- Generative vs. Discriminative Classifiers
 - L1 and L2 Regularization
 - Decision Trees and Random Forest Fundamentals
 - Boosting
