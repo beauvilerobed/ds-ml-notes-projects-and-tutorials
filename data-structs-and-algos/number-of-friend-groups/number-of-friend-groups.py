@@ -4,6 +4,9 @@
 # write a function to determine how many friend groups exist
 
 # solution: runtime O(M^2) where M is length of columns(friends) and space complexity O(M)
+# Example: 0 - 1      4 - 5       8 - 6     should return 3
+#                     | \         | /
+#                     2  3        7
 
 def dfs(friends, i, N):
     friends.add(i)
