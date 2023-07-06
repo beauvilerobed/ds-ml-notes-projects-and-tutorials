@@ -86,3 +86,4 @@
 - Anagram Substring between 2 Strings
 - Non-overlapping Intervals
 - List of List of Anagrams
+- Number of Friend Groups
