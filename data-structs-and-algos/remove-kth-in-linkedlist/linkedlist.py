@@ -40,8 +40,7 @@ def main():
         next_val = Node(val)
         node.next = next_val
         node = next_val
-        
-
+    
     ll = LinkedList()
     ll.head = head
 
