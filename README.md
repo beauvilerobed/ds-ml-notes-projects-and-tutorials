@@ -88,3 +88,4 @@
 - List of List of Anagrams
 - Number of Friend Groups
 - Remove K-th Element in Linked List
+    - Linked List Generator
