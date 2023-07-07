@@ -42,8 +42,10 @@ def print_tree(node, level=0):
          print(" " * 4 * level + "->", node.value)
       print_tree(node.left, level + 1)
 
-tree1 = make_tree([1,2,2,3,4,4,3])
-tree2 = make_tree([1,2,2,3,4,'None',3])
 
-# print_tree(tree1)
-# print_tree(tree2)
+if __name__ == '__main__':
+   tree1 = make_tree([1,2,2,3,4,4,3])
+   tree2 = make_tree([1,2,2,3,4,'None',3])
+    
+   print_tree(tree1)
+   print_tree(tree2)
