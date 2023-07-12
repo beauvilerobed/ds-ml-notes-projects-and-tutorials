@@ -90,4 +90,5 @@
 - Remove K-th Element in Linked List
     - Linked List Generator
 - Estimate $\pi$ using Monte Carlo Method
-- Remove the minimum number of parentheses
+- Remove the Minimum Number of Parentheses
+- Generate All Permutations
