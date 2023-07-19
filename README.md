@@ -92,3 +92,4 @@
 - Estimate $\pi$ using Monte Carlo Method
 - Remove the Minimum Number of Parentheses
 - Generate All Permutations
+- Sample From List of Weighted Categories
