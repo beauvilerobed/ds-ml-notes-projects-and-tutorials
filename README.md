@@ -50,8 +50,9 @@
 - Predicting Wine Type and Quality With Keras
 - Handwritten Digit Recognition
 - Learning OR Operator
-- NLTK Retrieval Chatbot Training and Implementation(closed domain)
-- Generative chatbots with seq2seq models(open domain)
+- Chatbots (Open and Closed Domain)
+    - NLTK Retrieval Chatbot Training and Implementation(closed domain)
+    - Generative chatbots with seq2seq models(open domain)
 - Predict Car Fuel Efficiency
 - How to Identify Overfitting Machine Learning Models in Scikit-Learn
 - Intro to Sequence to Sequence Learning in Keras
