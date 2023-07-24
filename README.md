@@ -54,12 +54,11 @@
     - NLTK Retrieval Chatbot Training and Implementation(closed domain)
     - Generative chatbots with seq2seq models(open domain)
 - Predict Car Fuel Efficiency
+    - 1970-1982
+    - 1983-2017
 - How to Identify Overfitting Machine Learning Models in Scikit-Learn
 - Intro to Sequence to Sequence Learning in Keras
 - How to Develop an Encoder-Decoder Model for Seq2seq Prediction in Keras
-- Vehicle Fuel Economy Estimates
-    - Data Analysis
-    - Modelling and Evaluation
 - Simulation Modeling Introduction
     - Monte Carlo Simulation
     - Simulate the Spread of an Infectious Disease
