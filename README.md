@@ -93,3 +93,4 @@
 - Generate All Permutations
 - Sample From List of Weighted Categories
 - Maximum Length of a Common Subarray
+- Maximum Sum of Increasing Subsequence
