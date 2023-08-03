@@ -13,7 +13,7 @@ def max_increasing_subseq_sum(arr):
         temp_sum = prev
         for j in range(i, n):
             curr = arr[j]
-            if prev <= curr:
+            if prev < curr:
                 temp_sum += curr
                 prev = curr
         
