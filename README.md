@@ -11,7 +11,7 @@
 - Generative vs. Discriminative Classifiers
 - L1 and L2 Regularization
 - Decision Trees and Random Forest Fundamentals
-- Boosting
+- Boosting (https://hastie.su.domains/TALKS/boost.pdf)
 - PCA (Principal Component Analysis)
 - SMOTE (Synthetic Minority Oversampling Technique)
 - Cross-Validation
