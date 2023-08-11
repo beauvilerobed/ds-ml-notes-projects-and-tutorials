@@ -51,8 +51,8 @@
 - Handwritten Digit Recognition
 - Learning OR Operator
 - Chatbots (Open and Closed Domain)
-    - NLTK Retrieval Chatbot Training and Implementation(closed domain)
-    - Generative chatbots with seq2seq models(open domain)
+    - Retrieval Chatbot Training and Implementation(closed domain)
+    - Generative Chatbot Training and Implementation with seq2seq Models(open domain)
 - Predict Car Fuel Efficiency
     - 1970-1982
     - 1983-2017
@@ -64,7 +64,7 @@
     - Simulate the Spread of an Infectious Disease
     - Simulate Rolling Die and Drawing from a 52 Deck of Cards
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
-- Random Forest Not Ideal For Out-of-Sample Data Points
+- Random Forest Not Ideal For Extrapolating Data Points
 
 
 ## Data Structures and Algorithms
