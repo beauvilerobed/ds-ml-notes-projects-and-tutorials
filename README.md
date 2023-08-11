@@ -5,7 +5,7 @@
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
 - K-Means from Scratch
-- Elbow Method for Optimal Value of K in KMeans
+- Elbow & Silhouette Method for Optimal Value of K in KMeans
 - Logistic Regression from Scratch
 - Multicollinearity
 - Generative vs. Discriminative Classifiers
