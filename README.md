@@ -95,3 +95,4 @@
 - Maximum Length of a Common Subarray
 - Maximum Sum of Increasing Subsequence
 - Smallest Number of Perfect Squares Sum to N
+- All Combinations of K Numbers from 1 to N
