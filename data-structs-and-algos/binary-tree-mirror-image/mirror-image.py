@@ -4,7 +4,7 @@
 
 # example: [1,2,2,3,4,'None',3] --> False [1,2,2,3,4,4,3] --> True [1,2,2,3, None, None, None] --> False
 
-# Solution runtime O(N) space complexity O(N)
+# Solution runtime O(N) space complexity O(logN)
 
 from binarytreegenerator import print_tree, make_tree
 
