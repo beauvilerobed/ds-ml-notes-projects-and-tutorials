@@ -1,6 +1,6 @@
 # Given two arrays, write a function to get the intersection of two lists.
 # Example: a = [1,2,3,4,5] b = [0,1,3,7] output: [1,3]
-# Solution runtime and space complexity: O(len(a)+len(b))
+# Solution runtime and space complexity: O(min(len(a),len(b)))
 
 def intersection(a,b):
     a = set(a)
