@@ -4,7 +4,7 @@
 
 # Solution: runtime O(N^2) Space complexity O(1)
 
-def max_increasing_subseq_sum(arr):
+def max_incr_subseq_sum(arr):
     n = len(arr)
 
     res = arr[0]
@@ -23,16 +23,16 @@ def max_increasing_subseq_sum(arr):
 
 def main():
     arr = [22, 3, 2, 5, 7, 6]
-    print(max_increasing_subseq_sum(arr))
+    print(max_incr_subseq_sum(arr))
 
     arr = [3, 2, 5, 7, 6]
-    print(max_increasing_subseq_sum(arr))
+    print(max_incr_subseq_sum(arr))
 
     arr = [2, 5]
-    print(max_increasing_subseq_sum(arr))
+    print(max_incr_subseq_sum(arr))
     
     arr = [5]
-    print(max_increasing_subseq_sum(arr))
+    print(max_incr_subseq_sum(arr))
 
 
 
