@@ -14,7 +14,6 @@ def smallest_number(arr):
         return 0
 
     arr = sorted(arr, key=lambda k: (k[0], k[1]))
-    print(arr)
     count, left, right = 0, 0, 0
 
     for right in range(1, n):
