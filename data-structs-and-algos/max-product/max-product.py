@@ -1,7 +1,7 @@
 # Given an integer array, return the max product of any three numbers in
 # the array
 
-# Example: A = [1,3,4,5] should return 60; B = -2,-4,5,3] should return 40
+# Example: A = [1,3,4,5] should return 60; B = [-2,-4,5,3] should return 40
 
 # Solution: runtime O(n) space O(1)
 
