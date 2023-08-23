@@ -12,7 +12,7 @@ def peak_values(arr):
     while True:
         mid = (left+right)/2
         right_val = arr[mid+1] if mid+1 < len(arr) else float('-inf')
-        left_val = arr[mid+1] if mid-1 >= 0 else float('-inf')
+        left_val = arr[mid-1] if mid-1 >= 0 else float('-inf')
 
         if left_val < arr[mid] and right_val < arr[mid]:
             return mid
