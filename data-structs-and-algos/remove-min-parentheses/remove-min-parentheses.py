@@ -25,7 +25,7 @@ def parentheses(string):
     parenths = parenths[::-1]
     res = ''   
     
-    for  letter in string:
+    for letter in string:
         if parenths and letter == parenths[-1]:
             parenths.pop()
         else:
