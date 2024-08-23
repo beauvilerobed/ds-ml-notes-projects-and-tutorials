@@ -65,7 +65,7 @@
     - Simulate Rolling Die and Drawing from a 52 Deck of Cards
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Extrapolating Data Points
-- Predicting stock prices with an LSTM model and more!
+- Predicting stock prices with an MA, EMA, and LSTM models
 
 
 ## Data Structures and Algorithms
