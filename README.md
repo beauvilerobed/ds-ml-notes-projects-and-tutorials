@@ -37,6 +37,7 @@
 - Sequence Modeling: Recurrent and Recursive Nets
     - Teacher Forcing
     - LSTM Networks
+    - Recurrent Neural Network Guide: a Deep Dive in RNN
 
 ## A/B Testing
 - How to Do A/B Testing
