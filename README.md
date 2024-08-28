@@ -17,6 +17,10 @@
 - Cross-Validation
 - Model Selection and Hyperparameter Tuning
 
+## Data Analysis
+- Introduction to t-SNE
+- [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_EDA.ipynb)
+
 ## Deep Learning 
 (Located in the deep learning notes folder)
 
@@ -67,6 +71,7 @@
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Extrapolating Data Points
 - Predicting stock prices with an MA, EMA, and LSTM models
+- Introduction to t-SNE
 
 
 ## Data Structures and Algorithms
