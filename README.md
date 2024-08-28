@@ -71,7 +71,6 @@
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Extrapolating Data Points
 - Predicting stock prices with an MA, EMA, and LSTM models
-- Introduction to t-SNE
 
 
 ## Data Structures and Algorithms
