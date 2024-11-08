@@ -19,7 +19,7 @@
 
 ## Data Analysis
 - Introduction to t-SNE
-- [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_EDA.ipynb)
+- [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_ExploratoryDataAnalysis.ipynb)
 
 ## Deep Learning 
 (Located in the deep learning notes folder)
