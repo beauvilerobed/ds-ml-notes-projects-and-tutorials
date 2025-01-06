@@ -32,9 +32,10 @@
 
 - Artificial Neural Network
     - ANNs 
-- Deep Feedforward Networks
+- Deep Neural Networks
     - Learning XOR
     - Feedforward Neural Networks
+    - [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 - Regularization for Deep Learning
     - L1 and L2 Regularization
 - Optimization for Training DeepModels
@@ -42,10 +43,14 @@
 - Convolutional Networks
     - The Convolution Operation and Pooling
     - Convolutional Neural Network (CNN) Tutorial
+    - [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
 - Sequence Modeling: Recurrent and Recursive Nets
     - Teacher Forcing
     - LSTM Networks
     - Recurrent Neural Network Guide: a Deep Dive in RNN
+- Transformer Architecture
+    - [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+    - [Solving Transformer by Hand: A Step-by-Step Math Example](https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
 
 ## A/B Testing
 - How to Do A/B Testing
