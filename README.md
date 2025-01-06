@@ -20,12 +20,9 @@
 ## Data Analysis
 - Introduction to t-SNE
 - [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_ExploratoryDataAnalysis.ipynb)
-<<<<<<< HEAD
 
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
-=======
->>>>>>> 5564a58da675d1d97a4d0eaaf3bfc8c8480d2530
 - Intro to RNN, LSTM, and GRU
 
 ## Deep Learning 
