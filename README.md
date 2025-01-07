@@ -83,7 +83,7 @@
 - Predicting stock prices with an MA, EMA, and LSTM models
 
 
-## Data Structures and Algorithms
+## Data Structures and Algorithms (DSA)
 - Intersection of Lists
 - K Closest Points
 - K-th Smallest Value in Matrix
