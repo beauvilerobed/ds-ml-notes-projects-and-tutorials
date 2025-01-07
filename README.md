@@ -16,6 +16,7 @@
 - SMOTE (Synthetic Minority Oversampling Technique)
 - Cross-Validation
 - Model Selection and Hyperparameter Tuning
+- [Practical Statistics](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
 
 ## Data Analysis
 - Introduction to t-SNE
