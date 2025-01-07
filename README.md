@@ -24,7 +24,7 @@
 
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
-- Intro to RNN, LSTM, and GRU
+- Intro to RNN, LSTM, and GRU Using Time Series
 
 ## Deep Learning 
 (Located in the deep learning notes folder)
