@@ -57,7 +57,6 @@
     - Conversion Rate Optimization
 
 ## Projects 
-(located in the projects folder)
 - Predicting Wine Type and Quality With Keras
 - Handwritten Digit Recognition
 - Learning OR Operator
