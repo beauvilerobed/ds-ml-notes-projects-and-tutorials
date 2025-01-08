@@ -4,21 +4,21 @@
 ## Machine Learning
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
-- K-Means from Scratch
-- Elbow & Silhouette Method for Optimal Value of K in KMeans
 - Logistic Regression from Scratch
 - Multicollinearity
 - Generative vs. Discriminative Classifiers
 - L1 and L2 Regularization
 - Decision Trees and Random Forest Fundamentals
 - [Boosting](https://hastie.su.domains/TALKS/boost.pdf)
-- PCA (Principal Component Analysis)
 - SMOTE (Synthetic Minority Oversampling Technique)
 - Cross-Validation
 - Model Selection and Hyperparameter Tuning
-- [Practical Statistics](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
+- [Statistics for Machine Learning](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
 
 ## Data Analysis
+- K-Means from Scratch
+- Elbow & Silhouette Method for Optimal Value of K in KMeans
+- PCA (Principal Component Analysis)
 - Introduction to t-SNE
 - [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_ExploratoryDataAnalysis.ipynb)
 
