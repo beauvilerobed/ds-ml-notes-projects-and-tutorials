@@ -27,10 +27,6 @@
 - Intro to RNN, LSTM, and GRU Using Time Series
 
 ## Deep Learning 
-(Located in the deep learning notes folder)
-
-**Note**: Each topic has examples in Python
-
 - Artificial Neural Network
     - ANNs 
 - Deep Neural Networks
