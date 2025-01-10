@@ -2,7 +2,7 @@
 
 # Topics
 ## Machine Learning
-- Linear Regression from Scratch
+- Math Behind Linear Regression
 - Logistic Regression from Scratch
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
