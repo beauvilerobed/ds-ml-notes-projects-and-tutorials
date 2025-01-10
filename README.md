@@ -2,9 +2,10 @@
 
 # Topics
 ## Machine Learning
+- Math Behind Linear Regression
+- Logistic Regression from Scratch
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
-- Logistic Regression from Scratch
 - Multicollinearity
 - Generative vs. Discriminative Classifiers
 - L1 and L2 Regularization
