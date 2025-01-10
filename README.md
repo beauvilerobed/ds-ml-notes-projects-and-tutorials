@@ -13,14 +13,13 @@
 - SMOTE (Synthetic Minority Oversampling Technique)
 - Cross-Validation
 - Model Selection and Hyperparameter Tuning
-- [Statistics for Machine Learning](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
+- [Stats for ML & DS](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
 
 ## Data Analysis
 - K-Means from Scratch
 - Elbow & Silhouette Method for Optimal Value of K in KMeans
 - PCA (Principal Component Analysis)
 - Introduction to t-SNE
-- [Exporatory Data Analysis](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning/blob/main/1_ExploratoryDataAnalysis.ipynb)
 
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
