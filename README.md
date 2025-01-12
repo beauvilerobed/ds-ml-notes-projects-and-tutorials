@@ -51,7 +51,7 @@
 - Transformer Architecture
     - [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
     - [Solving Transformer by Hand: A Step-by-Step Math Example](https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
-    - Large Language Model From Scratch
+    - A Large Language Model From Scratch
 
 ## A/B Testing
 - How to Do A/B Testing
