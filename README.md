@@ -23,6 +23,7 @@
 - PCA (Principal Component Analysis)
 - Introduction to t-SNE
 - [Comprehensive data exploration with Python](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook)
+- [Stats for ML & DS](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
 
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
