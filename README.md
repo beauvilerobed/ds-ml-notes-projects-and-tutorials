@@ -3,7 +3,7 @@
 # Topics
 ## Machine Learning
 - Intuition Behind Linear Regression
-- Logistic Regression from Scratch
+- Logistic Regression From Scratch
 - Feature Scaling
 - Gradient Boosting vs. Random Forest Machines
 - Multicollinearity
@@ -15,12 +15,14 @@
 - Cross-Validation
 - Model Selection and Hyperparameter Tuning
 - [Stats for ML & DS](https://github.com/beauvilerobed/statistics-for-data-science-and-machine-learning)
+- [Advanced Data Preprocessing](https://www.kaggle.com/code/nkitgupta/advance-data-preprocessing)
 
 ## Data Analysis
-- K-Means from Scratch
+- K-Means From Scratch
 - Elbow & Silhouette Method for Optimal Value of K in KMeans
 - PCA (Principal Component Analysis)
 - Introduction to t-SNE
+- [Comprehensive data exploration with Python](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook)
 
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
@@ -48,6 +50,7 @@
 - Transformer Architecture
     - [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
     - [Solving Transformer by Hand: A Step-by-Step Math Example](https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
+    - Large Language Model From Scratch
 
 ## A/B Testing
 - How to Do A/B Testing
@@ -72,11 +75,10 @@
 - Simulation Modeling Introduction
     - Monte Carlo Simulation
     - Simulate the Spread of an Infectious Disease
-    - Simulate Rolling Die and Drawing from a 52 Deck of Cards
+    - Simulate Rolling Die and Drawing From a 52 Deck of Cards
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Extrapolating Data Points
 - Predicting stock prices with an MA, EMA, and LSTM models
-
 
 ## Data Structures and Algorithms (DSA)
 - Intersection of Lists
@@ -106,5 +108,5 @@
 - Maximum Length of a Common Subarray
 - Maximum Sum of Increasing Subsequence
 - Smallest Number of Perfect Squares Sum to N
-- All Combinations of K Numbers from 1 to N
+- All Combinations of K Numbers From 1 to N
 - [More](https://github.com/beauvilerobed/algos-and-data-strucs)
