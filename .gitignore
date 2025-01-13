@@ -146,4 +146,4 @@ nltk_data/
 .DS_Store
 .vscode
 
-deep-learning/llm-from-scratch/data/math.stackexchange.com.7z
+deep-learning/llm-from-scratch/data
