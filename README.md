@@ -80,12 +80,13 @@
     - Expected Number of Trials to See All N Numbers in an N-sided Dice.
 - Random Forest Not Ideal For Extrapolating Data Points
 - Predicting stock prices with an MA, EMA, and LSTM models
+- Intro to Economic Modeling and Data Science
 
 ## Data Structures and Algorithms (DSA)
 - Intersection of Lists
 - K Closest Points
 - K-th Smallest Value in Matrix
-- Max Product of Three Values in Array
+- Max Product of Three Values in Arrays
 - Binary Tree Mirror Image
     - Binary Tree Generator
 - Sum of Largest Contiguous Subarray
