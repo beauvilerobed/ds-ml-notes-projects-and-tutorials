@@ -28,6 +28,7 @@
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
 - Intro to RNN, LSTM, and GRU Using Time Series
+- Statistics Behind Time Series
 
 ## Deep Learning 
 - Artificial Neural Network
