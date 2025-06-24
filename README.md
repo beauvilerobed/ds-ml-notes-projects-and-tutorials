@@ -29,7 +29,7 @@
 ## Time Series Analysis
 - Everthing You Can Do With Time Series
 - Intro to RNN, LSTM, and GRU Using Time Series
-- Statistics Behind Time Series
+- Statistics Behind Time Series (9 chapters series)
 - Time Series Forcasting w/ Python (Cheat Sheet)
 
 ## Deep Learning 
