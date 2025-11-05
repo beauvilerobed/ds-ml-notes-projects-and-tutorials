@@ -147,3 +147,5 @@ nltk_data/
 .vscode
 
 deep-learning/llm-from-scratch/data
+
+.venv
