@@ -57,10 +57,10 @@
     - A Large Language Model From Scratch
 
 ## A/B Testing
-- How to Do A/B Testing
+- Math Behind A/B Testing
 - A/B Testing with Python
+    - A Complete Guide to A/B Testing
     - Free Trial Screener
-    - Check Which Newsletter Brings Higher Traffic
     - Conversion Rate Optimization
 
 ## Projects 
