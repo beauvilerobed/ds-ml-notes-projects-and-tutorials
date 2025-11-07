@@ -56,8 +56,9 @@
     - [Solving Transformer by Hand: A Step-by-Step Math Example](https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
     - A Large Language Model From Scratch
 
-## A/B Testing
+## A/B Testing and Causal Inference
 - Math Behind A/B Testing
+- Topics in Causal Inference
 - A/B Testing with Python
     - A Complete Guide to A/B Testing
     - Free Trial Screener
