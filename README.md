@@ -47,9 +47,10 @@
     - The Convolution Operation and Pooling
     - Convolutional Neural Network (CNN) Tutorial
     - [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
-- Sequence Modeling: Recurrent and Recursive Nets
+- Recurrent Networks (RNN)
+    - Sequence Modeling: Recurrent Nets
     - Teacher Forcing
-    - LSTM Networks
+    - Understanding LSTM Networks
     - Recurrent Neural Network Guide: a Deep Dive in RNN
 - Transformer Architecture
     - [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
